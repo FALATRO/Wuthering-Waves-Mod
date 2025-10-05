@@ -1,0 +1,18 @@
+{
+  "id": "Wuthering Waves Mod",
+  "name": "Wuthering Waves Mod",
+  "display_name": "Wuthering Waves Mod",
+  "author": ["Falatro"],
+  "description": "A Wuthering Waves mod that adds many resonators and three new boss blinds",
+  "prefix": "mm",
+  "main_file": "init.lua",
+  "priority": 0,
+  "badge_colour": "2596be",
+  "badge_text_colour": "ffffff",
+  "version": "1.0.0",
+  "dependencies": 
+  [
+    "Steamodded (>=1.0.0~BETA-0711a)",
+        "Lovely (>=0.6)"
+      ]
+}
