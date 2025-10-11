@@ -1,9 +1,9 @@
-# Welcome to the Wuthering Waves Balatro mod! (H1)
+# Welcome to the Wuthering Waves Balatro mod! 
 This is a mod that focuses on adding references to Wuthering Waves into Balatro in the forms of Jokers and Boss Blinds. 
 
-Note: This mod requires Steamodded and Lovely.
+* * Note: This mod requires [Steamodded](https://github.com/Steamodded/smods?tab=readme-ov-file) and [Lovely](https://github.com/ethangreen-dev/lovely-injector).
 
-This mod as of now adds the following:
+## This mod as of now adds the following:
 
 - 23 new Wuthering Waves themed Jokers
 - 3 Wuthering Waves themed Boss Blinds
@@ -14,7 +14,7 @@ This mod as of now adds the following:
 
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/bbc1fb83-f9cb-495c-ad8e-b1ccb35f3eb2" />
 
-How to Download:
+## How to Download:
 1. Install the latest version of Steamodded
 2. Install the latest version of Lovely
 3. Unzip download folder and put it in your mods folder
